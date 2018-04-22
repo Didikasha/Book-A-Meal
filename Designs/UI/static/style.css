@@ -17,7 +17,7 @@ width: 100%;
 clear: both;
 }
 
-/*---for the navigation panel--*/
+/*---for the navigation panels--*/
 .main-nav{ 
     float: right;
     list-style: none;
@@ -38,7 +38,6 @@ clear: both;
 
     }
 
-    /*-- intro message---*/
     .header{
         position: absolute;
         width: 1200px;
@@ -155,7 +154,7 @@ clear: both;
     }
 
 
-    /*--------------------ADMIN SECTIONS---------------*/
+    /*--------------------ADMIN SECTION---------------*/
 
 
 
