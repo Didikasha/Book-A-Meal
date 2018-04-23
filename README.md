@@ -24,8 +24,11 @@ CSS
 Browser (chrome, mozilla or any choice of user)
 
 # Git-Hub Page and pivotal tracker links
-
+* [Github Pages Link](https://didikasha.github.io/Book-A-Meal/home.html)
+* [Pivotal Project Link](https://www.pivotaltracker.com/n/projects/2165475)
 # Projects UIs
-
+![](.\Designs\UI\static\images\index2.JPG)
+![](.\Designs\UI\static\images\menu2.JPG)
+![](.\Designs\UI\static\images\home1.JPG)
 # Project Owner
 Didi Kashemwa
