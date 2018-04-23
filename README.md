@@ -1,7 +1,7 @@
 # Book-A-Meal
  An application that allows customers to make food orders online and helps the food vendor know what the customers want to eat.
 
-#Application Features
+# Application Features
 User Features
 All users can view all meals in the menu.
 Users can register and sign in the application.
@@ -17,15 +17,15 @@ Admin can delete meals from the menu.
 Admin can view order details.
 Admin can view order history details.
 
-#Dependencies
+# Dependencies
 Here is the list of dependencies
 HTML
 CSS
 Browser (chrome, mozilla or any choice of user)
 
-#Git-Hub Page and pivotal tracker links
+# Git-Hub Page and pivotal tracker links
 
-#Projects UIs
+# Projects UIs
 
-#Project Owner
+# Project Owner
 Didi Kashemwa
