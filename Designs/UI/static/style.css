@@ -6,7 +6,7 @@ body,html{width: 100%;
         }
 body{
 
-    background-image: url(images/foodb.jpg);
+    background-image: url(../static/images/foodb.jpg);
     background-repeat: no-repeat scroll left center;
     background-attachment: fixed;
     background-size: 100% 100%;
@@ -17,7 +17,7 @@ width: 100%;
 clear: both;
 }
 
-/*---for the navigation panel--*/
+/*---for the navigation panels--*/
 .main-nav{ 
     float: right;
     list-style: none;
@@ -38,7 +38,6 @@ clear: both;
 
     }
 
-    /*-- intro message---*/
     .header{
         position: absolute;
         width: 1200px;
@@ -108,13 +107,14 @@ clear: both;
             padding: 5px;
             height: 30px;
         }
-       /*----------MENU----------*/
+       /*----------applies to all tables in the website----------*/
        
     
     .tables {
         font-family: sans-serif;
         border-collapse: collapse;
         width: 100%;
+        margin-bottom: 30px;
     }
     .tables td{
         color: white;
@@ -146,9 +146,15 @@ clear: both;
         display: inline-block;
         font-size: 16px;       
     }
+    caption{
+        color:white;
+        font-family: helvetica;
+        font-weight: bold;
+
+    }
 
 
-    /*--------------------ADMIN SECTIONS---------------*/
+    /*--------------------ADMIN SECTION---------------*/
 
 
 
