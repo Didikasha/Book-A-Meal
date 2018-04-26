@@ -3,7 +3,7 @@
 import unittest
 import os
 import json
-from app import app
+from Book-A-meal-api import app
 
 
 class BookAMealTestcase(unittest.TestCase):
